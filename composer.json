@@ -1,0 +1,23 @@
+{
+    "name": "eduardogh/shift-php-cs",
+    "description": "Laravel Shift recommended style config",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Guzmán Hernández",
+            "email": "eduardo.guzman@placetopay.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "friendsofphp/php-cs-fixer": "^2.0"
+    },
+    "autoload": {
+        "files": [
+            "./src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
