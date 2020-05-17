@@ -1,12 +1,14 @@
 {
-    "name": "eduardogh/shift-php-cs",
-    "description": "Laravel Shift recommended style config",
+    "name": "eduarguz/shift-php-cs",
+    "description": "PHP CS Fixer - Laravel Coding Style Ruleset",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/eduarguz/shift-php-cs",
     "authors": [
         {
             "name": "Eduardo Guzmán Hernández",
-            "email": "eduardo.guzman@placetopay.com"
+            "email": "eduarguzher@gmail.com",
+            "homepage": "https://eduarguz.github.io/eduardogh/"
         }
     ],
     "require": {
