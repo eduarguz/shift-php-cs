@@ -9,7 +9,7 @@ You can find the **original and official** source of the ruleset in [this gist](
 You can install the ruleset via composer using the following command:
 
 ```sh
-composer require --dev eduarguz/shift-php-cs
+composer require --dev aloware/shift-php-cs
 ```
 
 This package will also require the `friendsofphp/php-cs-fixer` package.
@@ -69,3 +69,4 @@ Run on CI
 
 - Sharing PHP-CS-Fixer rules across projects and teams. [Laravel News Article](https://laravel-news.com/sharing-php-cs-fixer-rules-across-projects-and-teams)
 - Laravel Shift Recommended Coding Ruleset. [Gist](https://gist.github.com/laravel-shift/cab527923ed2a109dda047b97d53c200) - [Shift](https://laravelshift.com/)
+- Original package: [eduarguz/shift-php-cs](https://github.com/eduarguz/shift-php-cs)

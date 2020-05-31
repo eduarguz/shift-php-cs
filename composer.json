@@ -1,14 +1,14 @@
 {
-    "name": "eduarguz/shift-php-cs",
+    "name": "aloware/shift-php-cs",
     "description": "PHP CS Fixer - Laravel Coding Style Ruleset",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/eduarguz/shift-php-cs",
+    "homepage": "https://github.com/aloware/shift-php-cs",
     "authors": [
         {
-            "name": "Eduardo Guzmán Hernández",
-            "email": "eduarguzher@gmail.com",
-            "homepage": "https://eduarguz.github.io/eduardogh/"
+            "name": "Sohrab Sheikhani",
+            "email": "sohrab@aloware.com",
+            "homepage": "https://github.com/aloware"
         }
     ],
     "require": {
