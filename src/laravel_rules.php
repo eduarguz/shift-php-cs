@@ -20,9 +20,6 @@ return [
         'elements' => ['method']
     ],
     'class_definition' => true,
-    'concat_space' => [
-        'spacing' => 'none'
-    ],
     'declare_equal_normalize' => true,
     'elseif' => true,
     'encoding' => true,
@@ -45,6 +42,7 @@ return [
     'method_argument_space' => true,
     'native_function_casing' => true,
     'no_alias_functions' => true,
+    'no_unused_imports' => true,
     'no_extra_blank_lines' => [
         'tokens' => [
             'extra',
