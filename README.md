@@ -1,6 +1,6 @@
 #  PHP CS Fixer - Laravel Coding Style Ruleset 
 
-This package allows you to use the set of rules for [PHP CS Fixer](https://github.com/FriendsOfPhp/PHP-CS-Fixer) created and recommended by [Laravel Shift](https://laravelshift.com/).
+This package allows you to use the set of rules for [PHP CS Fixer](https://github.com/FriendsOfPhp/PHP-CS-Fixer) created and recommended by [Laravel Shift](https://laravelshift.com/) with some modification.
 
 You can find the **original and official** source of the ruleset in [this gist](https://gist.github.com/laravel-shift/cab527923ed2a109dda047b97d53c200).
 
@@ -9,7 +9,7 @@ You can find the **original and official** source of the ruleset in [this gist](
 You can install the ruleset via composer using the following command:
 
 ```sh
-composer require --dev aloware/shift-php-cs
+composer require --dev aloware/shift-php-cs:dev-master
 ```
 
 This package will also require the `friendsofphp/php-cs-fixer` package.
