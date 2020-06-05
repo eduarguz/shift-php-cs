@@ -120,4 +120,5 @@ return [
         'elements' => ['method', 'property']
     ],
     'whitespace_after_comma_in_array' => true,
+    'eof_ending' => true
 ];
