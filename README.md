@@ -18,10 +18,10 @@ This package will also require the `friendsofphp/php-cs-fixer` package.
 This package only gives you easy access to the recommended ruleset. The common and usual PHP-CS-Fixer setup
 is still required:
 
-In case you don't have one, create your `.php_cs.dist` file.
+In case you don't have one, create your `.php-cs-fixer.dist` file.
 
 ```sh
-touch .php_cs.dist
+touch .php-cs-fixer.dist
 ```
 
 Put your `Finder` config inside. This will tell PHP-CS-Fixer where to run.
