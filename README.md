@@ -74,7 +74,9 @@ composer require --dev eduarguz/shift-php-cs
 Rename any of your existing files:
 
 `.php_cs` -> `.php-cs-fixer.php`
+
 `.php_cs.dist` -> `.php-cs-fixer.dist.php`
+
 `.php_cs.cache` -> `.php-cs-fixer.cache`
 
 ## Resources
