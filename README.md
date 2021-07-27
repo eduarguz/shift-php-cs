@@ -12,16 +12,16 @@ You can install the ruleset via composer using the following command:
 composer require --dev eduarguz/shift-php-cs
 ```
 
-This package will also require the `friendsofphp/php-cs-fixer` package.
+This package will also require the `^3.0` version of `friendsofphp/php-cs-fixer` package .
 
 ## Usage
 This package only gives you easy access to the recommended ruleset. The common and usual PHP-CS-Fixer setup
 is still required:
 
-In case you don't have one, create your `.php_cs.dist` file.
+In case you don't have one, create your `.php-cs-fixer.php` file.
 
 ```sh
-touch .php_cs.dist
+touch .php-cs-fixer.dist.php
 ```
 
 Put your `Finder` config inside. This will tell PHP-CS-Fixer where to run.
