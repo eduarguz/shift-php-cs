@@ -4,8 +4,6 @@ This package allows you to use the set of rules for [PHP CS Fixer](https://githu
 
 You can find the **original and official** source of the ruleset in [this gist](https://gist.github.com/laravel-shift/cab527923ed2a109dda047b97d53c200).
 
-This ruleset was originally created to work with PHP-CS-Fixer 2.x and has been upgraded to 3.x
-
 ## Installation
 You can install the ruleset via composer using the following command:
 
@@ -65,7 +63,7 @@ Run on CI
 ./vendor/bin/php-cs-fixer fix --dry-run
 ```
 
-## Upgrade from 1.x to 2.x version of this package (to PHP-CS-Fixer 3.x)
+## Upgrade from 1.x to 3.x version of this package (to PHP-CS-Fixer 3.x)
 
 ```sh
 composer require --dev eduarguz/shift-php-cs
