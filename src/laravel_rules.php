@@ -4,6 +4,7 @@
  * @see https://gist.github.com/laravel-shift/cab527923ed2a109dda047b97d53c200
  */
 return [
+    'no_unused_imports' => true,
     'array_indentation' => true,
     'array_syntax' => ['syntax' => 'short'],
     'binary_operator_spaces' => [
